@@ -56,16 +56,3 @@ A gamified daily quest & fitness tracker with a Solo Leveling-style status windo
 **Stack:** Laravel · Livewire · Blade
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GANTI_USERNAME&show_icons=true&hide_border=true&bg_color=0B1F3A&title_color=C9963C&icon_color=C9963C&text_color=EAEAEA" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GANTI_USERNAME&hide_border=true&background=0B1F3A&stroke=C9963C&ring=C9963C&fire=C9963C&currStreakLabel=C9963C&sideLabels=EAEAEA&currStreakNum=EAEAEA&sideNums=EAEAEA&dates=EAEAEA" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANTI_USERNAME&layout=compact&hide_border=true&bg_color=0B1F3A&title_color=C9963C&text_color=EAEAEA" />
-</p>
-
----
