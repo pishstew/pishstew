@@ -2,7 +2,7 @@
 
 <!-- Replace GANTI_USERNAME everywhere in this file with your GitHub username -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=26&duration=3000&pause=1000&color=C9963C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Apish+%F0%9F%91%8B;Vocational+IT+Student+%40+SIJA+SMKN+6+Malang;Laravel+%2B+PHP+%2B+IoT+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=26&duration=3000&pause=1000&color=C9963C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Apish+%F0%9F%91%8B;Vocational+IT+Student+%40+SIJA;Laravel+%2B+PHP+%2B+IoT+Enthusiast" alt="Typing SVG" />
 
 </div>
 
